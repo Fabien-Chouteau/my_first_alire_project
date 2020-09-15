@@ -1,0 +1,12 @@
+name = "my_first_alire_project"
+version = "0.1.0"
+
+description = "My First Alire project"
+maintainers = ["Fabien Chouteau <fabien.chouteau@gmail.com>"]
+authors = ["Fabien Chouteau <fabien.chouteau@gmail.com>"]
+maintainers-logins = ["Fabien-Chouteau"]
+tags = ["first"]
+website = "https://github.com/Fabien-Chouteau/my_first_alire_project"
+
+[[depends-on]]  # This line was added by `alr with`
+libhello = "*"  # This line was added by `alr with`
